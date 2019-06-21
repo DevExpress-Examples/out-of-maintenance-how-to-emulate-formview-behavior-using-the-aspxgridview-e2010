@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to emulate FormView behavior using the ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2010/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to emulate FormView behavior using the ASPxGridView.<br> That is, on the ASPxGridView page, only one record is always displayed in edit mode.<br><br><strong>See Also:</strong><br><a href="https://www.devexpress.com/Support/Center/p/T496745"> ASPxCardView - How to implement the CRUD (create, read, update, delete) functionality similarly to FormView and DetailsView</a></p>
