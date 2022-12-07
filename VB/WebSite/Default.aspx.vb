@@ -3,9 +3,7 @@ Imports System
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports DevExpress.Web.Data
-Imports DevExpress.Web.ASPxGridView
-Imports DevExpress.Web.ASPxEditors
-Imports DevExpress.Web.ASPxMenu
+Imports DevExpress.Web
 
 Partial Public Class _Default
 	Inherits Page

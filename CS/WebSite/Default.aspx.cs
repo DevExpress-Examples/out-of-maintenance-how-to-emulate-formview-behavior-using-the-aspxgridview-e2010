@@ -2,9 +2,7 @@ using System;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using DevExpress.Web.Data;
-using DevExpress.Web.ASPxGridView;
-using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxMenu;
+using DevExpress.Web;
 
 public partial class _Default : Page {
     private bool processAddNewRow;
